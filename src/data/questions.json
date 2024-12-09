@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "type": "video",
+      "videoId": "video0",
+      "title": "欢迎来到我们的测试",
+      "description": "请观看学习视频，然后开始答题！"
+    },
+    {
+      "id": 1,
+      "content": "植物白天进行光合作用时，会释放出什么气体？",
+      "options": ["二氧化碳", "氧气", "氮气", "氢气"],
+      "correctAnswer": 1,
+      "explanation": "植物在阳光下进行光合作用时会释放氧气，这就是为什么森林被称为'地球的肺'。"
+    },
+    {
+      "id": 2,
+      "content": "下列哪种动物是哺乳动物？",
+      "options": ["鸽子", "海豚", "青蛙", "蛇"],
+      "correctAnswer": 1,
+      "explanation": "海豚虽然生活在水中，但它是哺乳动物，它们用肺呼吸，并且用乳汁喂养幼崽。"
+    },
+    {
+      "type": "video",
+      "videoId": "video1",
+      "title": "第一章学习视频",
+      "description": "请观看视频学习下一部分内容"
+    },
+    {
+      "id": 3,
+      "content": "地球上昼夜交替的原因是什么？",
+      "options": ["地球自转", "地球公转", "月球公转", "太阳自转"],
+      "correctAnswer": 0,
+      "explanation": "地球自转造成了昼夜交替，地球每转一圈就是一天。"
+    },
+    {
+      "id": 4,
+      "content": "水在多少度时会结冰？",
+      "options": ["0度", "10度", "-5度", "5度"],
+      "correctAnswer": 0,
+      "explanation": "在标准大气压下，水在0度时会结冰。这就是为什么冰箱冷冻室的温度要低于0度。"
+    }
+  ]
+}
